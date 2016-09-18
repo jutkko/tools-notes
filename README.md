@@ -1,7 +1,15 @@
 # tools-notes
-[![Build Status](https://travis-ci.org/jutkko/tools-notes.svg?branch=master)](https://travis-ci.org/jutkko/tools-notes)
+This is the repo where I keep my notes for the tools I use the most.
 
-# Benchmark
+# Tools
+
+- ag
+- autojump
+- find
+- git
+- grep
+- tig
+- tmux
 
 # Reference
 
