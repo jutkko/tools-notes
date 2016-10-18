@@ -12,28 +12,45 @@ links to the tools that are younger than me. Search on google for the rest of
 them :).
 
 - [ag](https://github.com/ggreer/the_silver_searcher)
+- [autojump](https://github.com/wting/autojump)
 - grep
 - find
-- [autojump](https://github.com/wting/autojump)
+- [fzf](https://github.com/junegunn/fzf)
 - [git](https://git-scm.com/)
 - [tig](https://github.com/jonas/tig)
 - [tmux](https://github.com/tmux/tmux)
 
 ## ag
 ### What it does?
+Searching through your files and contents of the files. Fast.
 ### Useful commands
+`ag -u PATTERN` searches all the files including hidden ones.
+
+## autojump
+### What it does?
+### Useful commands
+
+## awk
+### What it does?
+Search and replace character stream.
+### Useful commands
+`awk '/REGEXPATTERN/ {print $2}' < file` print the corresponding field of the
+input stream, matching the REGEXPATTERN.
 
 ## grep
 ### What it does?
+Search. It is everywhere.
 ### Useful commands
 
 ## find
 ### What it does?
 ### Useful commands
 
-## autojump
+## fzf
 ### What it does?
+Fuzzy finder.
 ### Useful commands
+Use your commands then \*\* then <kbd>tab<\kbd>.
 
 ## git
 ### What it does?
