@@ -28,6 +28,7 @@ Searching through your files and contents of the files. Fast.
 
 ## autojump
 ### What it does?
+A tool that can help you jump to any directory you have previously been to.
 ### Useful commands
 
 ## awk
@@ -50,7 +51,9 @@ Search. It is everywhere.
 ### What it does?
 Fuzzy finder.
 ### Useful commands
-Use your commands then \*\* then <kbd>tab<\kbd>.
+Use your commands then \*\* then <kbd>tab</kbd>.
+<kbd>alt</kbd><kbd>c</kbd>: `cd` to a subdirectory with fuzzy search engine
+from fzf.
 
 ## git
 ### What it does?
